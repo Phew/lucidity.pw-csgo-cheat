@@ -1,4 +1,4 @@
-# Versas
+# lucid
 Free open-source training software / cheat for Counter-Strike: Global Offensive game. Designed as internal cheat - Dynamic-link library (DLL) loadable into game process. Compatible with the latest version of the game on Steam.
 
 ## Loading / Injecting into game process
